@@ -1,0 +1,10 @@
+
+
+
+spring:
+  datasource:
+    hikari:
+        driver-class-name: ysql.cj.jdbc.Driver
+        jdbc-url:  jdbc:mysql://localhost:3306/blog?serverTimezone=Asia/Seoul
+        username: cos 
+        password: cos1234
